@@ -1,7 +1,7 @@
 ---
 title: "Just for good measure, Hello World..."
 date: 2024-12-29T22:01:18-03:00
-draft: true
+draft: false
 ShowToc: true
 ---
 
