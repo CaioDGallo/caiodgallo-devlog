@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Caio Gallo | devlog</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on Caio Gallo | devlog</description>
+    <image>
+      <title>Caio Gallo | devlog</title>
+      <url>http://localhost:1313/assets/og-default.png</url>
+      <link>http://localhost:1313/assets/og-default.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Dec 2024 22:01:18 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/en/posts/hello-world/</link>
+      <pubDate>Sun, 29 Dec 2024 22:01:18 -0300</pubDate>
+      <guid>http://localhost:1313/en/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;Hi, my name is Caio Delafiori Gallo, I am a software engineer and enthusiast. I work mostly with web technologies and I want to start writting blog posts to document my journey throught this infinite world of software dev.&lt;/p&gt;
+&lt;h3 id=&#34;php-love-and-hate&#34;&gt;PHP, love and hate&lt;/h3&gt;
+&lt;p&gt;I work mainly with PHP today. Most people on the internet have a very &lt;em&gt;strong&lt;/em&gt; opinion on it (not always supported by facts), and I also have my own. I do love PHP but I don&amp;rsquo;t feel it will be where my future belongs, I am deeply in love with the idea of working with GoLang since the first times I started tinkering with it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

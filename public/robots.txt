@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://caiodgallo.dev/sitemap.xml
